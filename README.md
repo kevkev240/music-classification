@@ -7,6 +7,9 @@ Preproccesed data are not included because they are too large. However, they can
 
 # Notebooks
 lstm.ipynb contains the code for running baseline LSTM models. 
+
 lstm_tuning.ipynb tries feature expansion. 
+
 bilstm.ipynb experiment with biLSTM. 
+
 classification_csvdata.ipynb explored the CSV data in ./data/features_3_sec.csv.
